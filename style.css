@@ -1,0 +1,104 @@
+/*common*/
+
+a,.btn-link{
+    color: #3cb7f2;
+}
+.text-brand{
+    color: #3cb7f2;
+}
+/*header*/
+.header-top{
+    background: #3cb7f2;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.header-top a{
+    color: white;
+}
+.header-botton{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*corpo pagina*/
+.destra{
+    padding-left: 0;    
+}
+
+.centro{
+
+    padding-right: 0;
+}
+
+#flight-search-btn{
+    color: #3cb7f2;
+    height: auto;
+}
+
+.titolo{
+    color: #03A688;
+    
+}
+.annuncio {
+    border: 2px solid #03A688;
+    
+}
+
+.sito a{
+    color: white;
+    background: #03A688;
+}
+
+h6{
+    font-weight: normal;
+}
+
+.prima-riga{
+    margin-bottom: 15px;
+}
+
+.mb-25{
+    margin-bottom: 25px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+}
+
+.diretto{
+    color: #33a89a;
+}
+
+.aeroporto{
+    color: #68697f;
+}
+
+.linea{
+    height: 1px;
+    width: 130px;
+    border: 1px solid #68697f;
+    margin-right: 5px;
+    box-sizing: border-box;
+}
+
+
+.footer{
+    background: rgb(13, 36, 76);
+    height: 40px;
+}
+
+.prezzo{
+    height: 100%;
+}
+
+.search{
+    color: #4385f4;
+    padding-top: 5px;
+}
+
+.volo{
+    margin-bottom: 37px;
+}
